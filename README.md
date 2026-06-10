@@ -1,6 +1,6 @@
 # Playwright Automation Framework
 
-Sample automation framework demonstrating UI and API testing using Playwright and C#.
+Enterprise-style Playwright automation framework demonstrating UI testing, API testing, Page Object Model and CI/CD concepts using C#.
 
 ## Features
 
